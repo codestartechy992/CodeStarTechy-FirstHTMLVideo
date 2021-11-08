@@ -1,0 +1,2 @@
+Markup refers to the formats or styles through which the hypertext should be presented or displayed. 
+Markup is done in html using various tags.
