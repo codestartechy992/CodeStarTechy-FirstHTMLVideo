@@ -1,0 +1,2 @@
+Hypertext is a type of data that is understood by the computer.
+This data includes links, text, images, icons etc.
